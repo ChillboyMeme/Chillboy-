@@ -1,2 +1,3 @@
-# Chillboy-
-Ultimate vibe coin
+Yeh rahi ek basic README.md file, jo tum GitHub repo me daal sakte ho:
+# Chillboy Community ## 🌐 Ultimate Vibe Coin Chillboy Community ek decentralized token hai jo **staking, rewards, aur long-term growth** ko promote karta hai. ## 🚀 Why Buy Chillboy Token? - ✅ **Staking Rewards** – Hold karo aur passive income kamao - ✅ **Community-Driven** – Chillboy holders ke liye exclusive rewards - ✅ **Future Development** – New utilities aur upgrades aate rahenge ## 🔗 Official Links - 🔹 Website: [https://chillboymeme.github.io](https://chillboymeme.github.io) - 🔹 Telegram: [https://t.me/chillboycomunity](https://t.me/chillboycomunity) - 🔹 Twitter (X): [https://x.com/chillboyCoin](https://x.com/chillboyCoin) ## 📈 Roadmap 1️⃣ **Phase 1:** Community Building & Token Launch 2️⃣ **Phase 2:** Staking System & Rewards Program 3️⃣ **Phase 3:** Partnerships & Exchange Listings 4️⃣ **Phase 4:** Metaverse & Future Innovations ### 🔥 Join the Vibe, Be a Part of Chillboy Community! 🔥 
+Steps to Add in GitHub
